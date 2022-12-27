@@ -1,0 +1,8 @@
+C:\Users\Guest_315.group\source\repos\exam1\exam1\bin\Debug\exam1.exe.config
+C:\Users\Guest_315.group\source\repos\exam1\exam1\bin\Debug\exam1.exe
+C:\Users\Guest_315.group\source\repos\exam1\exam1\bin\Debug\exam1.pdb
+C:\Users\Guest_315.group\source\repos\exam1\exam1\obj\Debug\exam1.csproj.AssemblyReference.cache
+C:\Users\Guest_315.group\source\repos\exam1\exam1\obj\Debug\exam1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Guest_315.group\source\repos\exam1\exam1\obj\Debug\exam1.csproj.CoreCompileInputs.cache
+C:\Users\Guest_315.group\source\repos\exam1\exam1\obj\Debug\exam1.exe
+C:\Users\Guest_315.group\source\repos\exam1\exam1\obj\Debug\exam1.pdb
